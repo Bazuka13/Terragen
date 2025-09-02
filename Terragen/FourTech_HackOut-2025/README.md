@@ -28,7 +28,7 @@ RAG Model
 Installation and Setuo :-
 
 # Clone the repository
-git clone https://github.com/Yug6584/FourTech_HackOut-2025.git
+git clone https://github.com/Bazuka13/Terragen.git
 cd FourTech_HackOut-2025
 
 # Backend setup
